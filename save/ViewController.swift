@@ -40,6 +40,7 @@ class ViewController: UIViewController, UITextFieldDelegate  {
         testText = textField.text!
 //        dddd
 //        cccc
+//      　dsfsf
         label.text = testText
         
         // キーボードを閉じる
