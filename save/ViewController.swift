@@ -38,7 +38,7 @@ class ViewController: UIViewController, UITextFieldDelegate  {
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool{   //textFieldをUITextFieldとして宣言，　Bool型の値を戻す
         testText = textField.text!
-        
+//        dddd
         label.text = testText
         
         // キーボードを閉じる
